@@ -16,14 +16,4 @@ end
 end
 assign clk_div=count[1];
 
-
-
-
-
-
-
-
-
-
-
 endmodule
